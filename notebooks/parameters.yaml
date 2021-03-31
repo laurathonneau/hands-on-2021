@@ -1,0 +1,6 @@
+- TRAINING_CSV_PATH : ../data/raw/GTSRB_Final_Training_Images/GTSRB/Final_Training/Images/*/*.csv
+- TEST_CSV_PATH: ../data/raw/GT-final_test.csv
+- IMAGE_WIDTH : 30
+- IMAGE_HEIGHT : 30
+- SEED : 42 
+- TEST_IMAGES_PATH : ../data/raw/GTSRB/Final_Test/Images/
