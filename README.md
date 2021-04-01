@@ -15,3 +15,7 @@ Enfin, nous avons crée une application Dash permettant de rentrer une image qui
 * models : comporte le modèle de Neural Network ('traffic_signs_2021-03-19_13-51-00.h5') + le fichier du modèle de SVM ('traffic_signs_svm_final.h5'), tout deux pouvant être reload 
 
 
+
+
+
+Par Caroline REBOUILLAT et Laura THONNEAU 
