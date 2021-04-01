@@ -1,11 +1,11 @@
 # Projet hands-on-2021
 
-Ce projet a pour but de créer une application capable de prédire des panneaux routiers grace à un réseau de neuronnes profonds.
+Ce projet a pour but de créer une application capable de prédire des panneaux routiers grace à un réseau de neurones profonds.
 
-Pour ce faire nous avons entrainé un modele de réseau de neuronnes, grace à des données de panneaux Allemands, que nous avons pas la suite testé. 
+Pour ce faire nous avons entrainé un modele de réseau de neurones, grace à des données de panneaux Allemands, que nous avons pas la suite testé. 
 Ce modèle a ensuite été comparé à un modèle SVM mais celui-ci s'est avéré moins performant, même après un tunning des paramètres. 
 
-Enfin, nous avons crée une application Dash permettant de rentrer une image qui sera ensuite prédite avec le modèle de réseaux de neuronnes. 
+Enfin, nous avons crée une application Dash permettant de rentrer une image qui sera ensuite prédite avec le modèle de réseaux de neurones. 
 
 ## Récapitulatif des differents dossiers:
 
